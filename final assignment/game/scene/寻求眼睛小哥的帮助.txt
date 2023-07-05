@@ -1,0 +1,12 @@
+changeBg:车上.jpg;
+changeFigure:不悦男.png -left -next;
+眼镜小哥:你神经病吧！;
+changeFigure: -left -next;
+:小哥觉得你精神有问题，不欲搭理，公交车继续行驶。;
+changeFigure:爆炸云.png -next;
+bgm:卡农.mp3;
+:卡农音乐响起，公交车爆炸，你又回到小哥给你纸巾那一幕 -爆炸.mp3;
+changeFigure: -next;
+bgm:none;
+intro:;
+changeScene:递纸.txt

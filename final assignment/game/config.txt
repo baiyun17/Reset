@@ -1,0 +1,5 @@
+Game_name:开端;
+Game_key:e2d4dc98702137;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:042bf07e3762870b35a979cf4d60bbc.png;

@@ -1,0 +1,6 @@
+changeBg:车上.jpg -next;
+changeFigure:å¹³å¸¸.png -left -next;
+眼镜小哥:你没事吧？你还好吗？;
+changeFigure: -left -next;
+:看来他还是不相信，你只能：;
+choose:污蔑小哥是色狼，要求立马下车送小哥去警局:污蔑色狼.txt;

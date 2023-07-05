@@ -1,0 +1,7 @@
+changeBg:车上.jpg -next;
+changeFigure:爆炸云.png -next;
+bgm:卡农.mp3;
+:你们叫错了卢笛的名字，卢笛并没有帮助你们，铃声响起，爆炸发生。 -爆炸.mp3;
+changeFigure:none;
+bgm:none;
+changeScene:卢笛2.txt
